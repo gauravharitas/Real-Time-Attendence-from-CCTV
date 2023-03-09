@@ -1,4 +1,4 @@
-# Real-Time-Attendence-System
+# Real-Time-Attendence-System-From-CCTV
 MINeD Hackathon Project
 Track 5 : JK Lakshami Company
 Aim : Real Time Face detection of the employee and mark attendence of each and every employee also save the attendence in MySql Database
